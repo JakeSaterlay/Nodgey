@@ -67,3 +67,5 @@ export default tseslint.config([
   },
 ])
 ```
+
+![Logo](.github/images/logo.png)
